@@ -1,4 +1,6 @@
 # Pytorch-PointNet-Cls
-use pytorch realize pointnet cls module.
-just run the pointNet.py
-the getData.py used for load data from .h5 file
+Use pytorch realize pointnet cls module.
+
+Just run the pointNet.py
+
+The getData.py used for load data from .h5 file
